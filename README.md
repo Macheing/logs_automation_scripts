@@ -2,19 +2,14 @@ automation scripts that process the system log and generate a bunch of reports b
 the information extracted from the log files. 
 
 Error Messages Report:
+![image](https://user-images.githubusercontent.com/42636064/142564959-0cee69e7-3e4a-45e5-bef6-865ff1a26403.png)
 
-Error Messages
 
-ERROR	                                      Count
 
-Timeout while retrieving information	      15
+User staistics Report:
+![image](https://user-images.githubusercontent.com/42636064/142565212-1e88d981-aab2-41e0-aed1-a591ae4e624f.png)
 
-Connection to DB failed	                    13
 
-Tried to add information to closed ticket	  12
 
-Permission denied while closing ticket	    10
-
-The ticket was modified while updating	    9
-
-Ticket doesn't exist	                      7
+Generated user emails:
+![image](https://user-images.githubusercontent.com/42636064/142565400-143d2388-a404-4624-a13c-3f97171df1d7.png)
